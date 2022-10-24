@@ -4,9 +4,10 @@
 
 ### .Net CLI commands runned (not sure if necessary but run them anyway)
 
+#### dotnet tool install --global dotnet-ef (this one is mandatory)
+
 #### dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
 #### dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-#### dotnet tool install --global dotnet-ef
 #### dotnet add package Microsoft.EntityFrameworkCore.Design
 
 ### Software needed
